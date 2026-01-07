@@ -32,6 +32,7 @@ else:
 
 """
 #Nesting
+#Nesting: Putting one thing inside another of the same type, like loops, conditions, functions, or HTML elements.
 """
 age = int(input("enter your age:"))
 if (age>=18):
