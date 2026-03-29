@@ -47,8 +47,8 @@ Accessing part of a string
 
 str[starting_idx : ending_idx] # ending idx is not included 
 
-str = "ApnaCollege" 
-str[1:4] is "pna" 
+str = "binodkhadka" 
+str[1:4] is "ino" 
 str[ :4] is same as str[0:4]
 str[1: ] is same as str[1:len(str)] 
 ----------------------------------------
