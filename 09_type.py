@@ -1,13 +1,13 @@
 #Using type 
 
-bin=2
+bi=2
 man=2
-lov=99.99
+du=99.99
 to="binod"
 
 print(type(bin))
 print(type(man))
-print (type(lov))
+print (type(du))
 print(type(to))
 
 #================================================================================================
